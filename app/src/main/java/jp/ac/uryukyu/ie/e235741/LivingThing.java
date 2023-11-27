@@ -39,7 +39,7 @@ public class LivingThing {
     }
 
     public int getHitPoint(){
-        return hitPoint;
+        return this.hitPoint;
     }
 
     public int getAttack(){
