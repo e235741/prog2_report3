@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e235741.EnemyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-27T05:51:19" hostname="aragakiyuitonoMacBook-Air.local" time="0.01">
+  <properties/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e235741.EnemyTest" time="0.01"/>
+  <system-out><![CDATA[デモ勇者のHPは100。攻撃力は100です。
+スライムもどきのHPは10。攻撃力は100です。
+デモ勇者の攻撃！スライムもどきに81のダメージを与えた！！
+モンスタースライムもどきは倒れた。
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
